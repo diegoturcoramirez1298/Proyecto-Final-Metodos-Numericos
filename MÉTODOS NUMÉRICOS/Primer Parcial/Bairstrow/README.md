@@ -4,3 +4,4 @@ EL METODO CONSISTE EN UN PROCEDIMIENTO PARA EL CALCULO DE LAS RAICES DE UN POLIN
 p(x) = (x^2 - r*x -s)/(polinomio)
 EN DADO CASO EN QUE x^2 - r*x -s NO SEA UN FACTOR CUADRATICO DE P(X), SE TENDRA:
 p(x) = (x^2 - r*x -s)/(polinomio) + B (x - r) + A ; CABE MENCIONAR QUE ESTA FORMA DE p(x) SE DERIVA DE NEWTON RAPHSON
+FUENTE: http://pcmap.unizar.es/~mpala/C_N_lecci/CN_1III2_bairstow_l.pdf
