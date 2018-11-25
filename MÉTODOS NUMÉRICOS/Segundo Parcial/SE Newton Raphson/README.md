@@ -1,0 +1,7 @@
+#Newton Raphson no lineal
+
+AGREGA UNA VARIANTE A SU FORMULA PARA FUNCIONAR EN MATRICES:
+
+[Xr] = [X0]- inv(Jacobi(A[x0]))*A[x0]
+
+FUENTE: MIGUEL PALOMERA
